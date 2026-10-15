@@ -8,6 +8,7 @@ def home():
     return """
     <h1>Cloud CI/CD Pipeline Using Jenkins</h1>
     <p>My Flask application is running successfully!</p>
+    <p>Automatic deployment through GitHub Webhook and Jenkins!</p>
     <p>Deployed using Docker on AWS EC2.</p>
     """
 
